@@ -1,0 +1,12 @@
+$color--blue : #dfd30d;
+$color-white: #fff;
+
+
+body {
+  background-color: $color--blue;
+  h1 {
+    color: $color-white;
+    font-size: 40px;
+    display: flex;
+  }
+}
